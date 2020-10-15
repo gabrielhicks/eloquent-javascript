@@ -1,1 +1,3 @@
 pages 1-8
+
+Because computers are dumb, pedantic beasts, programming  is fundamentally tedious and frustrating.
